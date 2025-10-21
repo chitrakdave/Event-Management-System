@@ -1,4 +1,4 @@
-api/ contains the backend APIs that interact with PostgreSQL and is built using Python (Flask)
+api/ contains the backend APIs that interact with PostgreSQL and is built using Python (Flask).
 ui/ contains the frontend of the Application built in React
 
 Steps to run the code:
